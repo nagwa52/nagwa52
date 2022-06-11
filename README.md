@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Angular projects**
+- 🔭 I’m currently working on **Django projects**
 
-- 🌱 I’m currently learning **Angular framework**
+- 🌱 I’m currently learning **Django framework**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
