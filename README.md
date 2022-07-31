@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagwa Talaat Hassan</h1>
 <h3 align="center">A passionate Full stack developer from Egypt</h3>
-<img align="center" width ="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="animated code " />
+<p align="center" <img width ="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagwa52&label=Profile%20views&color=0e75b6&style=flat" alt="nagwa52" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagwa52" alt="nagwa52" /></a> </p>
