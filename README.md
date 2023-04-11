@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Node js projects**
 
-- 🌱 I’m currently learning **express and react framework**
+- 🌱 I’m currently learning **web sockets**
 
-- 👯 I’m looking to collaborate on **Express and react Projects**
+- 👯 I’m looking to collaborate on **Laravel framework**
 
 - 📫 How to reach me **nagwatalaat52@gmail.com**
 
